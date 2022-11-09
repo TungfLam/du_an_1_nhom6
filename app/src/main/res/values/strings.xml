@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">DU_AN_1_NHOM6</string>
+    <string name="openDWR" />
+    <string name="closeDWR" />
 </resources>
