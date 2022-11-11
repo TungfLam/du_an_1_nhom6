@@ -23,7 +23,7 @@
             android:layout_height="wrap_content"
             android:focusable="true"
 
-            android:hint="Tên Đăng Nhập" />
+            android:hint="Tên Đăng Nhập 1" />
 
 
     </com.google.android.material.textfield.TextInputLayout>
